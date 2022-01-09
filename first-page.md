@@ -12,8 +12,8 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  headline: ''
-  content: ''
+  headline: Headline
+  content: 'Content goes here. '
   cta:
     enabled: false
     url: ''
