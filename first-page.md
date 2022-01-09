@@ -28,6 +28,8 @@ page_sections:
   content: ''
 menu:
   main:
-    weight: 2
+    identifier: home
+    weight: 1
+    title: Home
 
 ---
