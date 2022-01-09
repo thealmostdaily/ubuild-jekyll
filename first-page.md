@@ -8,7 +8,7 @@ page_sections:
   logo: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: ''
+  background_image: "/2022/01/09/screen-shot-2022-01-09-at-1-53-49-pm.png"
   image:
     image: ''
     alt_text: ''
